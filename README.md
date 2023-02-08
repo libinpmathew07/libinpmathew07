@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a dedicated data engineer with 4+ years of experience working with large datasets. I have a passion for developing automated pipelines to transform and ingest data to uncover meaningful insights. My strong skill in designing and creating data pipelines has helped me to deliver successful projects.
+
+With a diverse skill set in different programming languages, I am able to propose solutions and strategies to business challenges, ensuring that the projects are delivered on time and meet the desired standards. I am highly motivated and always looking for new and innovative ways to deliver value to my clients.
+
+- 💬 reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/libinmathew07/)
 <!--
 **libinpmathew07/libinpmathew07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
