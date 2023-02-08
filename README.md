@@ -1,8 +1,12 @@
-### Hi there 👋
+### Hello and welcome to my GitHub profile! 👋
 
-I am a dedicated data engineer with 4+ years of experience working with large datasets. I have a passion for developing automated pipelines to transform and ingest data to uncover meaningful insights. My strong skill in designing and creating data pipelines has helped me to deliver successful projects.
+I am a dedicated and skilled data engineer with 4+ years of experience in handling large datasets. I specialize in designing and creating data pipelines, and I am highly proficient in data mining, mathematics, and statistical analysis.
 
-With a diverse skill set in different programming languages, I am able to propose solutions and strategies to business challenges, ensuring that the projects are delivered on time and meet the desired standards. I am highly motivated and always looking for new and innovative ways to deliver value to my clients.
+My expertise lies in developing high-velocity, high-volume stream processing pipelines using technologies such as Apache Spark, Apache Kafka, Apache NiFi, Hive, and Airflow. I also have experience in ingesting data from RDBMS to Hive tables using SQOOP.
+
+I love to use my programming skills in Python and SQL to analyze large amounts of data to uncover trends and patterns, build predictive models and machine-learning algorithms, and propose solutions to business challenges. I enjoy using data visualization techniques to present information in a clear and concise manner.
+
+I am a team player and enjoy collaborating with engineering and development teams to find the best solutions for our clients. If you're interested in learning more about my work and experience, feel free to connect with me on LinkedIn!
 
 - 💬 reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/libinmathew07/)
 <!--
