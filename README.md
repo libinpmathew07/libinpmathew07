@@ -9,6 +9,8 @@ I love to use my programming skills in Python and SQL to analyze large amounts o
 I am a team player and enjoy collaborating with engineering and development teams to find the best solutions for our clients. If you're interested in learning more about my work and experience, feel free to connect with me on LinkedIn!
 
 - 💬 reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/libinmathew07/)
+
+- ⚡ Fun fact: I spend some time long back on tableau https://public.tableau.com/app/profile/libin5028
 <!--
 **libinpmathew07/libinpmathew07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
