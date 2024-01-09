@@ -1,6 +1,6 @@
 ### Hello and welcome to my GitHub profile! 👋
 
-I am a dedicated and skilled data engineer with 4+ years of experience in handling large datasets. I specialize in designing and creating data pipelines, and I am highly proficient in data mining, mathematics, and statistical analysis.
+I am a dedicated and skilled data engineer with 5+ years of experience in handling large datasets. I specialize in designing and creating data pipelines, and I am highly proficient in data mining, mathematics, and statistical analysis.
 
 My expertise lies in developing high-velocity, high-volume stream processing pipelines using technologies such as Apache Spark, Apache Kafka, Apache NiFi, Hive, and Airflow. I also have experience in ingesting data from RDBMS to Hive tables using SQOOP.
 
